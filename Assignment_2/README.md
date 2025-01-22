@@ -4,6 +4,6 @@
 
 *This is my Italicized Text for Assignment 2*
 
-- first item
-- second item
-- third item
+- Jelly
+- Bread
+- Peanut Butter
